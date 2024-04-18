@@ -1,0 +1,41 @@
+nav{
+    width: 100%;
+    height: 100px;
+
+    color: #fff;
+  }
+  .container{
+    width: 95%;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .n_wrap{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .n_link{
+    display: flex;
+gap: 30px;
+font-size: 20px;
+
+  }
+  .n_btn{
+    display: flex;
+    gap: 30px;
+
+  }
+  .n_btn button{
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    height: 48px;
+    color: #fff;
+  }
+  .btn_n {
+    width: 143px;
+    height: 48px;
+    background-color: #7365C8 !important;
+    border-radius: 15px;
+  } 

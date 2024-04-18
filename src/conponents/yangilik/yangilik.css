@@ -1,0 +1,18 @@
+.yangilik_card{
+  background: url("./beg1.png") no-repeat  center center/cover;
+    width: 100%;
+    height: 500px;
+  border-radius: 30px;
+  color: #FFf;
+  p{
+    padding: 100px 30px;
+    max-width: 400px;
+    width: 100%;
+    font-size: 30px;
+  }
+
+}
+.h1{
+  font-size: 30pxq;
+  padding: 30px;
+}
